@@ -35,21 +35,3 @@ Redução de Custos de Computação
 Aplicação em cargas de trabalho flexíveis (ex: batch processing) para aproveitar descontos de até 90% na capacidade excedente.
 
 
-
-
-🚀 Como Utilizar e Entregar o Desafio
-
-1.
-Fork e Clone: Faça um fork deste repositório para sua conta e clone-o para sua máquina local.
-
-2.
-Revisão: O arquivo modelo-relatorio.md já está preenchido com a análise técnica e o nome do responsável.
-
-3.
-Entrega: Suba os arquivos para o seu repositório no GitHub e utilize o link do repositório para a entrega final na plataforma da DIO.
-
-
-
-
-Este projeto demonstra a aplicação prática de conhecimentos em arquitetura de nuvem e otimização de custos na AWS.
-
